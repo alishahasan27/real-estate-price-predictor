@@ -80,6 +80,8 @@ Matplotlib / Seaborn (optional for visualization)
 
 All dependencies are listed in requirements.txt.
 
+You can run it live here : https://dc9e9abe-35e5-4900-8a5c-0daadef33fe4-00-gq4rsni368rj.spock.replit.dev/upload
+
 ## 🌟 Acknowledgement
 
 Special thanks to open datasets and Scikit-Learn for enabling fast prototyping.
